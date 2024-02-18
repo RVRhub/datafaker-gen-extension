@@ -1,4 +1,4 @@
-package java.net.datafaker.datafaker_gen.sink;
+package net.datafaker.datafaker_gen.sink;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
@@ -6,7 +6,6 @@ import com.google.gson.JsonParser;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
-import net.datafaker.datafaker_gen.sink.Sink;
 
 import java.io.IOException;
 import java.util.Map;
